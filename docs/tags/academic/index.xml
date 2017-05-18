@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content tagged as &#39;Academic&#39; on Kaitlin Newson</title>
-    <link>https://kaitlinnewson.github.io/tags/academic/</link>
+    <link>https://kaitlinnewson.github.io/hugo-demo/tags/academic/</link>
     <description>Recent content in Content tagged as &#39;Academic&#39; on Kaitlin Newson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Kaitlin Newson</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/academic/" rel="self" type="application/rss+xml" />
+    <atom:link href="/hugo-demo/tags/academic/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>First post</title>
-      <link>https://kaitlinnewson.github.io/post/first/</link>
+      <link>https://kaitlinnewson.github.io/hugo-demo/post/first/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
       
-      <guid>https://kaitlinnewson.github.io/post/first/</guid>
+      <guid>https://kaitlinnewson.github.io/hugo-demo/post/first/</guid>
       <description>&lt;p&gt;I have thoughts about things!&lt;/p&gt;
 </description>
     </item>

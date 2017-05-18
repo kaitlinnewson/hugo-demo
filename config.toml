@@ -1,4 +1,4 @@
-baseurl = "https://kaitlinnewson.github.io"
+baseurl = "https://kaitlinnewson.github.io/hugo-demo/"
 title = "Kaitlin Newson"
 copyright = "&copy; 2017 Kaitlin Newson"
 theme = "academic"
